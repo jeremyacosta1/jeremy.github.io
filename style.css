@@ -1,0 +1,29 @@
+body{ 
+    background: url(backgroundforwbsite.jpg);
+    background-attachment: fixed;
+    font-size: 45px;
+    color:green;
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+} 
+.platano{ 
+    display: block;
+    position: relative; 
+   margin-right: 48%;
+} 
+
+
+img{ 
+    top: -25vh; 
+    left:0.25; 
+    position: absolute;
+    height: 300px; 
+    width: 700px;
+}  
+#info{ 
+    background-color:black;
+    width: 350px; 
+    height: 500px;
+    font-size: 25px;
+}
+
